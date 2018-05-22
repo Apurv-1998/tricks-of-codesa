@@ -1,0 +1,2 @@
+# tricks-of-codesa
+IMPORTANT CODE SOLVING TRICS
